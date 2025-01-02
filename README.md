@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**0x0a374/0x0a374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently exploring **backend development**, **server administration**, and **cybersecurity**.
+- ⚡ Fun fact: I enjoy solving technical challenges and improving system performance.
+---
+## 🛠️ Technologies & Tools
+<div align="center">
+	<h3>Technologies & Tools</h3>
+	<br>
+	<table>
+		<tr>
+			<td align="center">
+				<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github" alt="Backend & DevOps">
+				<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap" alt="Web Development">
+				<img src="https://skillicons.dev/icons?i=c" alt="Software Development">
+			</td>
+		</tr>
+	</table>
+</div>
+---
